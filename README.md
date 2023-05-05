@@ -4,14 +4,13 @@ This Node.js command-line application takes a user's input to generate a logo an
 
 
 Mock-Up
-image.png 
-image.png
-Screenshot 2023-05-05 160300.png
-Screenshot 2023-05-05 160015.png
-examples\img\Screenshot 2023-05-05 160015.png
-C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 160300.png
-
-C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 083202.png
+"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 171218.png"
+"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 171036.png"
+<img width="185" alt="Screenshot 2023-05-05 160300" src="https://user-images.githubusercontent.com/126128634/236571561-f9c9463f-1871-4261-a0b1-dfb778c17b86.png">
+"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 160015.png"
+"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 155331.png"
+"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 083202.png"
+"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 080400.png"
 
 User Story:
 
