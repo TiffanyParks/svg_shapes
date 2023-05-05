@@ -29,17 +29,17 @@ const questions = [
     {
         type: "input",
         name: "text",
-        message: "TEXT: Enter up to (3) Characters:",
+        message: "Enter up to (3) Characters:",
     },
     {
         type: "input",
         name: "text-color",
-        message: "TEXT COLOR: Enter a color keyword (OR a hexadecimal number):",
+        message: "Enter a text-color keyword (OR a hexadecimal number):",
     },
     {
         type: "input",
-        name: "background",
-        message: "SHAPE COLOR: Enter a color keyword (OR a hexadecimal number):",
+        name: "shape",
+        message: "Enter a shape-color keyword (OR a hexadecimal number):",
     },
     {
         type: "list",
@@ -56,7 +56,7 @@ function writeToFile(fileName, data) {
         if (err) {
             return console.log(err);
         }
-        console.log("Congratulations, you have Generated a logo.svg!");
+        console.log("Hooray!, your logo.svg is on the way");
     });
 }
 
@@ -86,7 +86,7 @@ async function init() {
 	user_shape_color = answers.shape;
 	console.log("User shape color: [" + user_shape_color + "]");
 	//user shape type
-	user_shape_type = answers["pixel-image"];
+	user_shape_type = answers["image"];
 	console.log("User entered shape = [" + user_shape_type + "]");
 	
 	//user shape
