@@ -4,13 +4,13 @@ This Node.js command-line application takes a user's input to generate a logo an
 
 
 Mock-Up
-"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 171218.png"
-"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 171036.png"
+
 <img width="185" alt="Screenshot 2023-05-05 160300" src="https://user-images.githubusercontent.com/126128634/236571561-f9c9463f-1871-4261-a0b1-dfb778c17b86.png">
-"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 160015.png"
-"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 155331.png"
-"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 083202.png"
-"C:\Users\Admin\Desktop\svg_shapes\examples\img\Screenshot 2023-05-05 080400.png"
+<img width="125" alt="Screenshot 2023-05-05 160015" src="https://user-images.githubusercontent.com/126128634/236571772-222e8148-6e5a-417c-8c73-1966de8fb88b.png">
+<img width="186" alt="Screenshot 2023-05-05 155331" src="https://user-images.githubusercontent.com/126128634/236571788-2a527c17-96c9-46fa-82f5-1fbee6a55965.png">
+<img width="246" alt="Screenshot 2023-05-05 083202" src="https://user-images.githubusercontent.com/126128634/236571802-6ca7cd34-d26e-495b-8503-a4a018dddd7f.png">
+<img width="214" alt="Screenshot 2023-05-05 080400" src="https://user-images.githubusercontent.com/126128634/236571823-5c2a3acf-4756-4f4e-a522-b2d4a85bd101.png">
+
 
 User Story:
 
